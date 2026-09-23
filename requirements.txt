@@ -1,5 +1,5 @@
-streamlit
-requests
-folium
-streamlit-folium
-google-genai
+streamlit==1.49.1
+groq>=0.31.0
+requests>=2.32.0
+folium>=0.20.0
+streamlit-folium>=0.25.0
